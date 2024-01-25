@@ -1,0 +1,16 @@
+.card {
+    width: 28rem;
+    margin-left:1%;
+    padding-bottom: auto;
+    background-Color:rgb(137, 195, 179);
+}
+
+.card-second{
+    margin-left : 5px;
+}
+
+.div-flex{
+    display:flex; 
+    justify-content: space-between;
+    margin: 5% 5% 5% 5% 
+}
